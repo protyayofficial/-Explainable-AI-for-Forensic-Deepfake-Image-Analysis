@@ -10,7 +10,7 @@ This repository contains the code and documentation for my Master's Thesis Proje
 - Comprehensive evaluation of model behaviors and predictions in the context of DeepFake image identification.
 
 ## Progress Till Now
-![Project Image](Pipeline.png)
+![Project Image](Pipeline.jpg)
 
 ## Acknowledgments
 - Acknowledgments: Acknowledgments to mentors, research advisors, and contributors for their support and guidance throughout this thesis project.
