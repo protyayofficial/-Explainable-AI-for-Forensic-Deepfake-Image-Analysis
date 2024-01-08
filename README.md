@@ -9,6 +9,9 @@ This repository contains the code and documentation for my Master's Thesis Proje
 - Implementation and analysis of Grad-CAM, CAM Saliency, SHAP, LIME, and other XAI techniques for model interpretability.
 - Comprehensive evaluation of model behaviors and predictions in the context of DeepFake image identification.
 
+## Progress Till Now
+![Project Image](Pipeline.png)
+
 ## Acknowledgments
 - Acknowledgments: Acknowledgments to mentors, research advisors, and contributors for their support and guidance throughout this thesis project.
 
