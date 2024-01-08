@@ -12,9 +12,6 @@ This repository contains the code and documentation for my Master's Thesis Proje
 ## Progress Till Now
 ![Project Image](Pipeline.jpg)
 
-## Acknowledgments
-- Acknowledgments: Acknowledgments to mentors, research advisors, and contributors for their support and guidance throughout this thesis project.
-
 ## Contact Information
 For any inquiries or collaboration opportunities, please contact Protyay Dey via protyayofficial@gmail.com.
 
